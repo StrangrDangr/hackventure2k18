@@ -1,0 +1,30 @@
+here is where we can break down the different paths through the story
+
+example: 
+You are walking through the woods. The full moon hangs heavy in the sky. 
+You see a house with a light in the window. You've never seen a house in this part of the woods.
+
+Question 1: What do you do?
+Choices: 
+  Get closer = go to question 5
+  Wait = go to question 2
+  Oh Hell No = go to question 3
+  
+Question 2: It sure is getting chilly, you need to do something!
+Choices: 
+  Dead End -> back to Q1
+
+Question 3: Well alright then. You turn to go when see something moving in the trees...
+Choices: 
+  Go toward the house = go to question 5
+  I'm not scared!... But I'm not going near that house = go to question 4
+
+Question 4: You hear a howl! There's a wolf coming out of the trees. Quick you better seek shelter!
+  Choices:
+    Better go to that house, huh? = question 6
+
+Question 5: You are approaching the house. A single candle is flickering in the window. Is that... music?
+  Choices:
+    Let's do this. (Go in) = question 6
+    That's gonna be a no from me dawg. = question 4
+  
