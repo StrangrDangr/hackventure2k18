@@ -27,6 +27,42 @@ Question 5: You are approaching the house. A single candle is flickering in the 
   Choices:
     Let's do this. (Go in) = question 6
     That's gonna be a no from me dawg. = question 4
+
+ Question 6: You pull the door with a creak and step through the sagging doorframe to see a dim entry wall with an Edwardian coatstand
+ decorated with carved diamonds and loops of various sizes and only slight taste.  To the left is a living room with a standup piano and 
+ to the left, a dining room with a table set for dinner.
+  Choices: 
+    Go left to the living room = question 7
+    Go right to the dining room = question 10
+    
+ Question 7: You walk closer to the piano surrounded by bookshelves in the living room.  Didn't you just hear music?  The keys have a
+ consistent layer of dust.
+  Choices:
+    Sit down and play a tune = question 8
+    Look at the bookshelves = question 9
+    
+Question 8: You begin to play Moonlight Sonata but get the a feeling of being watched. You stop playing, look around, and see no one. 
+You remind yourself how much you hated practicing.
+   Choices:
+     Look at the bookshelf = question 9
+     Go to the dining room = question 10
+
+Question 9: The book are dusty like the piano.  All the classics are here bound in vellum.  Many have Latin titles, and one book only
+shows symbols on the spine.  
+    Choices:
+     Go to dining room = question 10
+     Examine symbol book = question 12
+
+Question 10: You enter the dining room where a table for twelve is set.  There are cobwebs covering the dishes and silver.  There is a 
+bottle of wine and one glass is half full.
+     Choices:
+     Sample the wine = question 11
+     Go to the living room = question 7
+ 
+Question 11: The red wine has turned brown.  You begin to take a sip and expel the rancid juice from your lips immediately after you 
+taste it.
+    Choices:
+    Go to the living room = question 7
   
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ideas
