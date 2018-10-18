@@ -1,4 +1,5 @@
 window.onload =function(){
+
 	/*var theSitch = {node:0,question:"You are walking through the woods. The full moon hangs heavy in the sky.<br><br>You see a house with a light in the window. You've never seen a house in this part of the woods.<br><br>What do you do?",choices:["Get closer","Wait","Oh Hell No"]};*/
 	var storyBoard = [
 		{node:0,question:"You are walking through the woods. The full moon hangs heavy in the sky.<br><br>You see a house with a light in the window. You've never seen a house in this part of the woods.<br><br>What do you do?",choices:["Get closer","Wait","Oh Hell No"]},
@@ -122,7 +123,8 @@ window.onload =function(){
 		
 	};
 	printSitch(storyBoard[0]);
-	
+
+  
 	
 	/*document.getElementById("question").innerHTML = "You are walking in woods. You see a house. What do you do?";
 	var question = 1
@@ -133,6 +135,7 @@ window.onload =function(){
 	} else {
 		console.log("Something went wong!")
 	}*/
+
 	console.log(storyBoard[0])
 	//function for choice click
 }
