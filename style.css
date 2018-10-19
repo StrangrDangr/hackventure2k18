@@ -6,6 +6,6 @@ body {
 #choices {
   color: #33FF33;
 }
-#choices:hover {
+#choices>li:hover {
   text-shadow: 0px 0px 10px #66FF66, 0px 0px 10px #66FF66, 0px 0px 15px #66FF66;
 }
